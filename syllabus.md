@@ -1,6 +1,6 @@
-# CMPLXSYS 530,  Winter 2018 
+# CMPLXSYS 530,  Winter 2019 
 
-10am - 11:30am, Tues. and Thurs.  
+4pm - 5:30pm, Tues. and Thurs.  
 Weiser 747
 
 * **Instructor:** Lynette Shaw
