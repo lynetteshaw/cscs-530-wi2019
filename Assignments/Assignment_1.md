@@ -1,6 +1,6 @@
 # CMPLXSYS 530 
 ## Assignment 1: NetLogo Practice Exercises
-## Due: Tuesday, 1/29/2019 via Canvas Dropbox
+## Due: Tuesday, 1/29/2019 via [Canvas Dropbox](https://umich.instructure.com/courses/266684/assignments/709091)
 
 
 **Instructions**
