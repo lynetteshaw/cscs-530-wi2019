@@ -8,12 +8,12 @@ Either way is fine, though there is an advantage in allowing me to contribute in
 Also, if you are so inclined, I absolutely encourage you to share your repository with others who think might be able to provide good feedback on your project!
 
 
-##Using the GitHub Website
+## Using the GitHub Website
 
-####Create a GitHub Account
+#### Create a GitHub Account
 1. Using a browser of your preference, navigate to http://www.github.com and create a username and password and then clicking "Sign Up for GitHub"
 
-####Create a New Repository
+#### Create a New Repository
 1. Sign in to your github account at http://www.github.com
 
 2. In the right hand column, next to the label "Your repositories" click the green button with the label "+ New Repository
@@ -27,7 +27,7 @@ Also, if you are so inclined, I absolutely encourage you to share your repositor
 
 5. Click "Create Repository" 
 
-####Editing *.md (markdown) Files
+#### Editing *.md (markdown) Files
 1. In your new repository, click the "README.md" link under the section "Initial commit"
 
 2. Click the pen button at the top of the README.md file, to the left of the trash can button to edit the README.md file
@@ -42,7 +42,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 5. Click "Commit changes" to push your changes to your GitHub repository
 
-####Creating *.md (markdown) Files
+#### Creating *.md (markdown) Files
 1. Navigate to the top page of your GitHub repository (where it shows all of the files that you currently have uploaded. For now, it should just be README.md)
 
 2. Click the blue + button next to the name of your GitHub repository
@@ -54,7 +54,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 4. Follow steps 3 - 5 in the "Editing *.md Files" section above to edit and commit changes to your new markdown file
 
-####Downloading Individual Files
+#### Downloading Individual Files
 1. In your new repository, at the front page click "README.md"
 
 2. Right click "Raw" in the upper right hand corner of the README.md section and select "Save link as" -- Save the file to anywhere in your machine. This will download the "raw" (i.e., original) version of the file. This technique is most useful on files that you want to open up "locally" on your machine (i.e., not in a web-browser). Examples include: *.docx, *.ppt, or *.ipynb
@@ -67,9 +67,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 &nbsp; 
 
-##Installing the GitHub Client
+## Installing the GitHub Client
 
-###GitHub Client Install for Mac OS X
+### GitHub Client Install for Mac OS X
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to: https://mac.github.com/
@@ -93,7 +93,7 @@ __Download Github Graphical User Interface Client__
 7. At the following window, click the "Accounts" icon, and enter your GitHub user credentials, and click "Sign in" 
 
 
-###GitHub Client Install for Windows
+### GitHub Client Install for Windows
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to https://windows.github.com/
@@ -117,7 +117,8 @@ __Download Github Graphical User Interface Client__
 7. At the next screen, it will say that there were no repositories found, click the blue "Dashboard" word link. 
 
 ## Using the GitHub Client (for both Windows and OS X)
-###Cloning a Repository
+### Cloning a Repository
+
 1. With the GitHub client loaded, click the + button in the upper left hand corner of the window
 
 2. Select "Clone"
@@ -128,7 +129,8 @@ __Download Github Graphical User Interface Client__
 
 IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it. Anything you change on your computer will not change in GitHub unless you commit the changes (see below). Therefore, if you delete the folder, nothing will change in the GitHub repository, nor will you lose anything, unless you delete it explicitly from GitHub. If you delete items from the folder, you must push these changes to delete items from the GitHub repository. However, this is easily recoverable (see Recovering Deleted Data from GitHub)
 
-###Adding Files to a Repository
+### Adding Files to a Repository
+
 1. With the GitHub Client open in the background, click and drag any item that you want to add to your GitHub repository to the new cscs-530-github-tutorial (or whatever you named your repository in the previous section) folder that was added to your desktop.
 
 2. In OS X: Under the "Changes" tab, you will be able to see the new file that was just added
@@ -147,6 +149,7 @@ IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it
 5. Click the "Sync" with the circular arrow icon in the upper right hand corner to sync the changes that you made using GitHub client and the local Desktop folder with your new GitHub Repository 
 
 ## Recovering Deleted Data from GitHub
+
 1. If a file has been deleted from a folder, and the GitHub repository was updated without the file, you can recover your data.
 
 2. In the "History" section of GitHub, select the item that you want to "revert" or "roll back" to.
