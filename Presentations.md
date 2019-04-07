@@ -42,7 +42,7 @@
 1. James Coller
 2. Anne Lin
 3. Tia Esposito & Cory Grubbs
-4. 
+4. Jacob Solomon
 
 &nbsp;
 
