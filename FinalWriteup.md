@@ -1,7 +1,7 @@
 # Final Writeup
 
 ### Due Tuesday, April 30, 2019
-#### Submitted through Canvas -- may use GitHub for model related files if easier
+#### Submitted through [Canvas](https://umich.instructure.com/courses/266684/assignments/754603) -- may use GitHub for model related files if easier
 
 &nbsp; 
 
