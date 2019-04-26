@@ -1,6 +1,6 @@
 # Final Writeup
 
-### Due Tuesday, April 30, 2019
+### Due Tuesday, April 30, 2019, 5:30pm
 #### Submitted through [Canvas](https://umich.instructure.com/courses/266684/assignments/754603) -- may use GitHub for model related files if easier
 
 &nbsp; 
